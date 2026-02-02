@@ -1,17 +1,7 @@
-# 🎵 Music API - SEPLAG MT
+# 🎵 Teste - SEPLAG MT
 
 API REST para gerenciamento de Artistas e Álbuns.
 
----
-
-## 📋 Dados de Inscrição
-
-| Campo | Valor |
-|-------|-------|
-| **Candidato** | [SEU NOME COMPLETO] |
-| **CPF** | [SEU CPF] |
-| **E-mail** | [SEU EMAIL] |
-| **Vaga** | Desenvolvedor Backend Java Sênior |
 
 ---
 
